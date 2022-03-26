@@ -1,0 +1,4 @@
+author: PetardekYT
+version: 1.0
+name: BoatQueue
+main: pl.petardekyt.boatqueue.QueueManager
